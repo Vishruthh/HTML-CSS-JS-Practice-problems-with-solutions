@@ -4,6 +4,6 @@
 
 <h2>Solved Problems:</h2>
 <strong>⭐ HTML ⭐</strong><br>
-<a href="https://github.com/Vishruthh/C-or-CPP-Practice-problems-with-solutions/blob/main/name.html">
+<a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/name.html">
     • Displaying your name
 </a><br>
