@@ -7,3 +7,6 @@
 <a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/name.html">
     • Displaying your name
 </a><br>
+<a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/headingnsemantics.html">
+    • Heading and other semantic elements
+</a><br>
