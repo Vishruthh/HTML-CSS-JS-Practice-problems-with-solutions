@@ -1,5 +1,5 @@
 # HTML-CSS-JS-Practice-problems-with-solutions
-👉Well curated repo. containing solutions for all the practice questions that I've solved while I was learning HTML, CSS,JS.<br> 💡View README file for topic wise grouping of questions.<br> This repo. can be useful for beginner and intermediate-level web developers. <br>If you found this repo. useful, don't forget to star the repo and give a follow.<br><br>
+👉Well curated repo. containing solutions for all the practice questions that I've solved while I was learning HTML, CSS,JS.<br> 💡View README file for topic wise grouping of questions.<br> This repo. can be useful for beginner and intermediate-level web developers. <br>If you found this repo. useful, don't forget to star the repo and give a follow.<br>Code validated by <a href="https://validator.w3.org/nu/#textarea">W3C</a><br>
 
 
 <h2>Solved Problems:</h2>
