@@ -10,6 +10,12 @@
 <a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/headingnsemantics.html">
     • Heading and other semantic elements
 </a><br>
+<a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/lists.html">
+    • Lists in HTML
+</a><br>
 <a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/links.html">
     • Different types of Links in HTML
+</a><br>
+<a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/images.html">
+    • Different ways of adding images in HTML
 </a><br>
