@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Pseudo class selectors</title>
+        <style>
+            header li{
+                /* removing the bullet points*/
+                list-style: none;
+            }
+
+            /*link: link present, visited: after the link's clicked, a different style's applied [for <a> tag]*/
+            a:link, a:visited{
+                /*remove the underline*/
+                text-decoration: none;
+
+                background-color: aqua;
+                border: 1px solid red;
+                color: black;
+
+                /*try to take the entire line*/
+                display: block;
+                width: 200px;
+
+                text-align: center;
+                /*creating a space between buttons*/
+                margin-bottom: 2px;
+            }
+
+            /* hover: triggered only when mouse hovers over it
+            active: triggered only when the mouse button is pressed down on it, hasn't yet released it*/
+            a:hover, a:active{
+                background-color: aquamarine;
+            }
+
+            /*targeting the 3rd <li> content in header. increase font on hover.
+                combining selectors*/
+            header li:nth-child(3):hover{
+                font-size: large;
+            }
+
+            /*targeting every even'th element in section*/
+            section div:nth-child(even){
+                background-color: antiquewhite;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Pseudo class selectors</h1>
+        <header>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/">Blog</a></li>
+                <li><a href="/">Twitter</a></li>
+            </ul>
+        </header>
+        <section>
+            <div>div 1</div>
+            <div>div 2</div>
+            <div>div 3</div>
+            <div>div 4</div>
+            <div>div 5</div>
+            <div>div 6</div>
+            <div>div 7</div>
+            <div>div 8</div>
+            <div>div 9</div>
+            <div>div 10</div>
+        </section>
+    </body>
+</html>
