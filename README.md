@@ -28,3 +28,6 @@
 <a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/combiningselectors.html">
     • Combining selectors
 </a><br>
+<a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/pseudoclassselectors.html">
+    • Ability to change style based on user interaction
+</a><br>
