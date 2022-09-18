@@ -25,3 +25,6 @@
 <a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/cssselectors.html">
     • Elements, class and id selectors
 </a><br>
+<a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/combiningselectors.html">
+    • Combining selectors
+</a><br>
