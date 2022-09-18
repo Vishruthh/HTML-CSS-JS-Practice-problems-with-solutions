@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Combining selectors</title>
+        <style>
+            /* This is to all tags with class highlight -->*/
+            .highlight {
+                background-color: greenyellow;
+            }
+            /* This is to all the p tags with class highlight only */
+            p.highlight {
+                font-style: italic;
+            }
+            /* --Child selector-- */
+            /* all elements with class highlight and class mainpoint only*/
+            .highlight.mainpoint {
+                color: brown;
+                background-color:black;
+            }
+            /* targeting any article,h2 element which is direct child of section element
+            i.e., any article,h2 element whose immediate parent is a section element*/
+            section > article, section>h2 {
+                color: aquamarine;
+                font-size: 25px;
+            }
+            /* --Descedant selector -- */
+            /* all li elements inside section element, no matter how deep*/
+            section li{
+                color:blueviolet
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class="highlight">Element with class selector</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias optio laudantium ea totam recusandae corrupti sint iure. Minus magnam suscipit voluptas enim repudiandae. Beatae, id?</p>
+        <p class="highlight">This is P with class="highlight"</p>
+        <div class="mainpoint highlight">This is the mainpoint of the entire article!</div>
+
+        <h1>Child selector</h1>
+        <section>
+            <h2>Subheading 1</h2>
+            <div><article>Article which is inside DIV which is inside section</article></div>
+        </section>
+        <section>
+            <article>Article is a direct child of section element</article>
+        </section>
+        <h2>Subheading 2</h2>
+
+        <h1>Descedant selector</h1>
+        <section>
+            Table of contents
+            <ul>
+                <li>item1</li>
+                <li>item2</li>
+            </ul>
+        </section>
+        <article>
+            Shopping list
+            <ol>
+                <li>item1</li>
+                <li>item2</li>
+            </ol>
+        </article>
+    </body>
+</html>
