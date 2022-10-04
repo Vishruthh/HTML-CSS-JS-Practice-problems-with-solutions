@@ -31,3 +31,6 @@
 <a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/pseudoclassselectors.html">
     • Ability to change style based on user interaction
 </a><br>
+<a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/floatingelements.html">
+    • Positioning the elements using the Float property
+</a><br>
