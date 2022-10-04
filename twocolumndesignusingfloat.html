@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!--Creating two columns of text using float-->
+    <head>
+        <meta charset="UTF-8">
+        <title>Two column design using float</title>
+        <style>
+            * {
+                box-sizing: border-box;
+            }
+            /*width:50% means 50% of the total area of the tag above it, i.e. here div contains p tag*/
+            p {
+                width: 50%;
+                float:left;
+                padding: 10px;
+            }
+
+            section {
+                clear: left;
+            }
+        </style>
+    </head>
+    <body>
+        <h1><u>Two column design using float</u></h1>
+        <div>
+            <p id="p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas eaque libero quae eius ratione, consequatur ipsam quod architecto distinctio labore.</p>
+            <p id="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo temporibus esse ratione corrupti, repudiandae, et magnam dolore quibusdam soluta molestias voluptate at harum quod? Expedita incidunt libero vero ab enim.</p>
+            <section>This is regular content after the paragraph boxes.</section>
+        </div>
+    </body>
+</html>
