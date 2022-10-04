@@ -33,3 +33,6 @@
 <a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/floatingelements.html">
     • Positioning the elements using the Float property
 </a><br>
+<a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/twocolumndesignusingfloat.html">
+    • Two column design using float
+</a><br>
