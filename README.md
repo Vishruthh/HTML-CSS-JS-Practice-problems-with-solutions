@@ -3,6 +3,7 @@
 
 
 <h2>Solved Problems:</h2>
+<p>
 <strong>⭐ HTML ⭐</strong><br>
 <a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/name.html">
     • Displaying your name
@@ -19,8 +20,9 @@
 <a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/images.html">
     • Different ways of adding images in HTML
 </a><br>
+</p>
 
-
+<p>
 <br><strong>⭐ Cascading Style Sheets ⭐</strong><br>
 <a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/cssselectors.html">
     • Elements, class and id selectors
@@ -34,3 +36,4 @@
 <a href="https://github.com/Vishruthh/HTML-CSS-JS-Practice-problems-with-solutions/blob/main/floatingelements.html">
     • Positioning the elements using the Float property
 </a><br>
+    </p>
